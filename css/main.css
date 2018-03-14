@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-size: 16px;
+    background-image: url('../img/fondo.jpg');
+
+}
+.navbar-brand img{
+    height: 80px;
+}
+.dropdown-img{
+    height: 25px;
+}
+.card{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    margin: 2%;
+    background: rgba(255,255,255,.2)
+}
+.card-img-top{
+    height: 150px;
+    width: 150px;
+    align-self: center;
+    margin: 5%;
+}
