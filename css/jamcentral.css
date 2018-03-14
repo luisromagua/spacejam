@@ -1,0 +1,16 @@
+.jumbotron {
+  height: 100vh;
+  background: url("../img/fondo.jpg");
+  background-size: contain;
+  background-position: center center;
+  color: white; }
+  .jumbotron #titulo {
+    color: white;
+    font-size: 100px; }
+  .jumbotron .container {
+    padding-top: 35px; }
+    .jumbotron .container .btn {
+      background: rgba(255, 255, 255, 0.2);
+      border-style: none; }
+
+/*# sourceMappingURL=jamcentral.css.map */
